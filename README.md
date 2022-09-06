@@ -1,1 +1,1 @@
-![Alt text](relative/path/to/image.png?raw=true "Title")
+<img src="image.jpg" alt="Alt text" title="Optional title">
